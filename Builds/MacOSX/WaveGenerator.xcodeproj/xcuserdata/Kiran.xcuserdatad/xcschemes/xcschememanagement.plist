@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>WaveGenerator (AU).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>WaveGenerator (AUv3 AppExtension).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>WaveGenerator (AUv3 Standalone).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>WaveGenerator (All).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>WaveGenerator (Shared Code).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>WaveGenerator (VST).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>WaveGenerator (VST3).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>11541054C7039C8651FCEA9A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>31EC66E43FA57ADD8AC3F722</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3A133FCB8C4363506BF23AFB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>61166D2F2F74D7275B2AF76E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>95E45050AFD0BEED58D3867F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DDBC1BBD57C7E054FDBF5660</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E871727CF723E3FD7C30D501</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
